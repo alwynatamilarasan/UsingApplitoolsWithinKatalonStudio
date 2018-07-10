@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_MERCHANTS</name>
+   <tag></tag>
+   <elementGuidId>94cd06b4-99e0-4044-ab03-cd962c723be0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/merchants</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu__link</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-drupal-link-system-path</name>
+      <type>Main</type>
+      <value>node/80</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MERCHANTS</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;js js csstransforms3d&quot;]/body[@class=&quot;page--node-183 user-logged-out path--node page--node-type-paragraphs-page&quot;]/div[@class=&quot;outline-main -dom-ready&quot;]/div[@class=&quot;-personal&quot;]/div[1]/header[@class=&quot;main-header&quot;]/div[@class=&quot;header-login-bar&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row -margin-none -desktop&quot;]/div[@class=&quot;col -half -margin-none -align-center&quot;]/ul[@class=&quot;menu menu--main menu--level-0 menu--root&quot;]/li[@class=&quot;menu__item&quot;]/a[@class=&quot;menu__link&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>
