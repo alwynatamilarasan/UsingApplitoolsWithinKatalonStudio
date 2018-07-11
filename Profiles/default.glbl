@@ -46,12 +46,12 @@
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>1920</initValue>
+      <initValue>375</initValue>
       <name>viewportSizeLandscapeWidth</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>1067</initValue>
+      <initValue>812</initValue>
       <name>viewportSizeLandscapeHeight</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>

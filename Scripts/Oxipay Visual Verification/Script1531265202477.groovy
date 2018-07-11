@@ -41,7 +41,7 @@ WebUI.openBrowser('')
 // instanciate Eyes object based on the WebDriver object managed by Katalon Studio
 WebDriver innerDriver = DF.getWebDriver()
 Eyes eyes = createEyes()
-eyes.forceFullPageScreenshot(true)
+eyes.setForceFullPageScreenshot(true);
 /*eyes.use_css_transition = true*/
 
 eyes.open(innerDriver,
@@ -65,7 +65,7 @@ WebUI.click(findTestObject('Page_Oxipay - Frequently asked ques/a_MERCHANTS'))
 
 eyes.checkWindow('Merchants')
 
-WebUI.click(findTestObject('Page_Oxipay - Drive sales. A simple/a_Terms and Conditions'))
+WebUI.navigateToUrl('https://www.oxipay.com.au/terms')
 
 eyes.checkWindow('T & C')
 TestResults result = eyes.close(false)
