@@ -3,6 +3,6 @@
    <description></description>
    <name>Oxipay Visual Verification</name>
    <tag></tag>
-   <comment></comment>
+   <comment>View Port Size&quot; + viewportSize</comment>
    <testCaseGuid>e6718729-e902-4114-9165-8afbcc069a32</testCaseGuid>
 </TestCaseEntity>

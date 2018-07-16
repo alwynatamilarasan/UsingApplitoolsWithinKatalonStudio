@@ -47,7 +47,7 @@ eyes.setForceFullPageScreenshot(true);
 eyes.open(innerDriver,
 	GlobalVariable.appName, GlobalVariable.testName, viewportSize)
 
-WebUI.navigateToUrl('https://www.oxipay.com.au/')
+WebUI.navigateToUrl('https://www.oxipay.com.au/');
 
 eyes.checkWindow('Home Page')
 
